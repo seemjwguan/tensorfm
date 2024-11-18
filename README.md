@@ -1,1 +1,2 @@
-# tensorfm
+# Welcome!
+This repository contains the implementations of tensor factorization machines (FMs) studied in our paper "*Tensor factorization machine and its lifted form*." To reproduce our results, you can simply run "tensorFM_handler_ori.m" for tensor FM where as "tensorFM_handler_lifted.m" for lifted tensor FM. Due to the large sizes of datasets we used, we are unable to upload them here; you may simply process the datasets yourself as mentioned in our paper.
