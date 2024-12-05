@@ -4,7 +4,8 @@ This repository contains the implementations of tensor factorization machines (F
 
 # How to use?
 
-To reproduce our results, you can simply run *tensorFM_handler_ori.m* for tensor FM whereas *tensorFM_handler_lifted.m* for lifted tensor FM.
+1. Download the datasets used in our paper from here. (You may also use any dataset else you want.)
+2. run *tensorFM_handler_ori.m* for tensor FM whereas *tensorFM_handler_lifted.m* for lifted tensor FM.
 
 # Dependencies
 
